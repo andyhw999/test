@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\MyWinformApp\\MyWinformApp.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\临时文档\\test\\test\\MyWinformApp.csproj": {}
   },
   "projects": {
-    "D:\\work\\MyWinformApp\\MyWinformApp.csproj": {
+    "C:\\Users\\Admin\\Desktop\\临时文档\\test\\test\\MyWinformApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\MyWinformApp\\MyWinformApp.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\临时文档\\test\\test\\MyWinformApp.csproj",
         "projectName": "MyWinformApp",
-        "projectPath": "D:\\work\\MyWinformApp\\MyWinformApp.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\临时文档\\test\\test\\MyWinformApp.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\MyWinformApp\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\临时文档\\test\\test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
