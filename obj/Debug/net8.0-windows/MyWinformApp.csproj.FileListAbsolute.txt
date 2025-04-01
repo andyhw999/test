@@ -1,0 +1,14 @@
+D:\work\MyWinformApp\bin\Debug\net8.0-windows\MyWinformApp.exe
+D:\work\MyWinformApp\bin\Debug\net8.0-windows\MyWinformApp.deps.json
+D:\work\MyWinformApp\bin\Debug\net8.0-windows\MyWinformApp.runtimeconfig.json
+D:\work\MyWinformApp\bin\Debug\net8.0-windows\MyWinformApp.dll
+D:\work\MyWinformApp\bin\Debug\net8.0-windows\MyWinformApp.pdb
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.AssemblyInfoInputs.cache
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.AssemblyInfo.cs
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.csproj.CoreCompileInputs.cache
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.dll
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\refint\MyWinformApp.dll
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.pdb
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\MyWinformApp.genruntimeconfig.cache
+D:\work\MyWinformApp\obj\Debug\net8.0-windows\ref\MyWinformApp.dll
